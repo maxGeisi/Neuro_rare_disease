@@ -53,8 +53,9 @@ README.md                  # Project overview, setup instructions, and explanati
 
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/maxGeisi/Neuro_rare_disease.git
+cd Neuro_rare_disease
+
 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
