@@ -1,0 +1,101 @@
+patient_id,disease_label,gene_symbols,phenotypes,age_at_onset,family_history,mri_findings,csf_protein,medication_history,severity_score
+301,0,"TP53","Fatigue,Migraine",25,0,"Normal",28,"No medications",0
+302,0,"BRCA1","Hearing loss,Fatigue",40,0,"White matter lesions",32,"No medications",1
+303,0,"EGFR","Migraine,Muscle weakness",35,0,"Normal",30,"No medications",0
+304,0,"KRAS,EGFR","Cognitive decline,Peripheral neuropathy",45,1,"Cerebellar atrophy",42,"Immunosuppressants",1
+305,0,"APP","Hearing loss,Vision changes",22,0,"Normal",27,"No medications",0
+306,0,"PSEN1","Fatigue,Tremor,Seizures",20,1,"White matter lesions",33,"Anticonvulsants",2
+307,0,"MAPT","Migraine,Peripheral neuropathy",38,0,"Normal",25,"No medications",0
+308,0,"TP53,SCN1A","Cognitive decline,Hearing loss",50,1,"Leukoencephalopathy",45,"No medications",1
+309,0,"GBA","Muscle weakness,Fatigue,Ataxia",42,0,"Cerebellar atrophy",38,"No medications",1
+310,0,"BRCA1,KRAS","Dystonia,Seizures",30,0,"Normal",29,"Anticonvulsants",2
+311,0,"MYC,CDK2","Hearing loss,Intellectual disability",33,0,"Cortical thinning",35,"No medications",1
+312,0,"BRAF","Fatigue,Bloating,Migraine",41,0,"Normal",26,"No medications",0
+313,0,"APC","Vision changes,Migraine",28,0,"White matter lesions",36,"No medications",1
+314,0,"PIK3CA","Peripheral neuropathy,Frequent urination",39,1,"Normal",31,"No medications",1
+315,0,"SCN1A,EGFR","Dry mouth,Ataxia",44,0,"Cerebellar atrophy",37,"No medications",0
+316,0,"TP53","Frequent bowel movements,Fatigue",32,0,"Leukoencephalopathy",40,"Immunosuppressants",1
+317,0,"BRCA1","Agitation,Migraine",29,1,"Cortical thinning",34,"No medications",0
+318,0,"KRAS,MAPT","Muscle weakness,Bloating",52,0,"White matter lesions",39,"No medications",1
+319,0,"EGFR","Ataxia,Dry mouth,Seizures",27,0,"Cerebellar atrophy",46,"Anticonvulsants",2
+320,0,"APP,PIK3CA","Fatigue,Peripheral neuropathy,Dystonia",24,1,"Normal",33,"No medications",0
+321,1,"LRRK2","Ataxia,Cognitive decline,Spasticity",15,1,"Cerebellar atrophy",50,"Acetazolamide",3
+322,1,"APP,PSEN1","Intellectual disability,Hearing loss,Vision changes",10,1,"Cortical thinning",48,"No medications",3
+323,1,"MAPT,GBA","Ataxia,Fatigue,Peripheral neuropathy",18,1,"Leukoencephalopathy",52,"Immunosuppressants",2
+324,1,"PSEN1,TP53","Seizures,Dystonia,Spasticity",12,1,"White matter lesions",40,"Anticonvulsants",3
+325,1,"LRRK2,SCN1A","Ataxia,Intellectual disability,Muscle weakness",8,1,"Cerebellar atrophy",36,"Levodopa",2
+326,1,"KRAS,MAPT","Cognitive decline,Hallucinations,Spasticity",16,1,"Cortical thinning",47,"Immunosuppressants",3
+327,1,"GBA,EGFR","Tremor,Peripheral neuropathy,Ataxia",5,1,"Normal",26,"Acetazolamide",1
+328,1,"BRCA1,PSEN1","Intellectual disability,Seizures,Vision changes,Fatigue",4,1,"Cerebellar atrophy",34,"Anticonvulsants",3
+329,1,"LRRK2,TP53,SCN1A","Spasticity,Dystonia,Hallucinations,Migraine",14,1,"White matter lesions",51,"Levodopa",2
+330,1,"APP,EGFR","Cognitive decline,Ataxia,Peripheral neuropathy,Tremor",9,1,"Leukoencephalopathy",44,"No medications",3
+331,1,"BRAF,SCN1A","Seizures,Spasticity,Ataxia",7,1,"Cortical thinning",33,"Acetazolamide",2
+332,1,"MAPT,LRRK2","Hallucinations,Vision changes,Fatigue",6,1,"White matter lesions",41,"No medications",3
+333,1,"PSEN1,KRAS","Cognitive decline,Tremor,Migraine",13,1,"Normal",35,"Levodopa",2
+334,1,"GBA,APP","Ataxia,Dystonia,Frequent urination",17,1,"Cerebellar atrophy",53,"Anticonvulsants",2
+335,1,"SCN1A,APC","Intellectual disability,Hearing loss,Agitation",11,1,"Cortical thinning",38,"No medications",3
+336,1,"LRRK2,EGFR","Seizures,Spasticity,Fatigue",19,1,"White matter lesions",43,"Levodopa",2
+337,1,"BRCA1,MAPT","Peripheral neuropathy,Dystonia,Bloating",21,1,"Leukoencephalopathy",49,"Immunosuppressants",2
+338,1,"TP53,GBA","Vision changes,Ataxia,Frequent bowel movements",26,1,"Cerebellar atrophy",29,"Acetazolamide",3
+339,1,"KRAS,SCN1A","Hallucinations,Muscle weakness,Dry mouth",23,1,"Normal",30,"No medications",2
+340,1,"BRAF,PIK3CA","Spasticity,Hearing loss,Agitation",15,1,"Cortical thinning",50,"No medications",3
+341,2,"PSEN1,KRAS","Tremor,Hearing loss,Seizures",33,0,"Cerebellar atrophy",35,"Anticonvulsants",2
+342,2,"MAPT,TP53","Vision changes,Fatigue,Ataxia",27,0,"Cortical thinning",46,"No medications",1
+343,2,"LRRK2","Dystonia,Cognitive decline",55,0,"White matter lesions",39,"Levodopa",2
+344,2,"SCN1A,GBA","Seizures,Peripheral neuropathy,Hallucinations",48,0,"Leukoencephalopathy",53,"Anticonvulsants",3
+345,2,"BRCA1","Muscle weakness,Ataxia",52,0,"Normal",31,"No medications",1
+346,2,"EGFR,MAPT","Intellectual disability,Spasticity,Vision changes",29,1,"Cortical thinning",43,"Acetazolamide",2
+347,2,"KRAS","Cognitive decline,Hallucinations,Peripheral neuropathy",41,0,"White matter lesions",37,"No medications",2
+348,2,"SCN1A,APP","Ataxia,Dystonia,Fatigue",36,0,"Cerebellar atrophy",49,"Levodopa",1
+349,2,"TP53,GBA","Hearing loss,Migraine,Muscle weakness",34,0,"Normal",28,"No medications",1
+350,2,"EGFR,LRRK2","Seizures,Spasticity,Hallucinations",39,0,"Leukoencephalopathy",54,"Immunosuppressants",3
+351,2,"BRAF,APC","Frequent bowel movements,Agitation,Incontinence",47,0,"Cortical thinning",29,"No medications",2
+352,2,"PSEN1,MYC","Fatigue,Peripheral neuropathy,Migraine",31,0,"White matter lesions",44,"No medications",1
+353,2,"MAPT,CDK2","Spasticity,Hallucinations,Ataxia",50,1,"Cerebellar atrophy",33,"Acetazolamide",3
+354,2,"BRAF,SCN1A","Tremor,Agitation,Intellectual disability",37,0,"Leukoencephalopathy",52,"No medications",2
+355,2,"LRRK2,PIK3CA","Hearing loss,Frequent urination,Vision changes",43,0,"Normal",34,"No medications",1
+356,2,"GBA,APC","Seizures,Bloating,Muscle weakness",46,0,"White matter lesions",41,"Levodopa",2
+357,2,"EGFR,KRAS","Cognitive decline,Dry mouth,Agitation",30,0,"Cerebellar atrophy",42,"Immunosuppressants",2
+358,2,"BRCA1,MYC","Frequent bowel movements,Fatigue,Intellectual disability",35,0,"Cortical thinning",40,"No medications",1
+359,2,"TP53","Ataxia,Dystonia,Migraine",28,0,"Leukoencephalopathy",36,"Acetazolamide",2
+360,2,"APC,SCN1A","Hearing loss,Seizures,Spasticity",49,0,"White matter lesions",55,"Anticonvulsants",3
+461,0,"TP53","Fatigue,Peripheral neuropathy",24,0,"Cortical thinning",28,"No medications",1
+462,1,"KRAS,SCN1A","Seizures,Spasticity",12,1,"White matter lesions",47,"Anticonvulsants",2
+463,2,"MAPT,APP","Tremor,Migraine,Frequent bowel movements",33,0,"Leukoencephalopathy",41,"No medications",1
+464,1,"LRRK2","Agitation,Hallucinations,Insomnia",8,1,"Cerebellar atrophy",52,"Levodopa",3
+465,2,"EGFR,PIK3CA","Hearing loss,Ataxia",40,0,"Normal",35,"No medications",1
+466,0,"BRCA1,PSEN1","Vision changes,Memory loss",26,0,"Cortical thinning",30,"No medications",1
+467,0,"APP,MAPT","Cognitive decline,Numbness",42,0,"Cerebellar atrophy",37,"No medications",1
+468,1,"SCN1A","Ataxia,Peripheral neuropathy,Agitation",19,1,"Leukoencephalopathy",43,"Acetazolamide",3
+469,2,"GBA","Seizures,Muscle weakness",36,0,"White matter lesions",45,"Anticonvulsants",2
+470,1,"BRAF","Spasticity,Frequent urination",15,1,"Cortical thinning",29,"Immunosuppressants",2
+471,0,"TP53","Fatigue,Intellectual disability",31,0,"Normal",33,"No medications",1
+472,2,"EGFR,KRAS","Dystonia,Hearing loss",39,0,"White matter lesions",40,"Anticonvulsants",2
+473,1,"PSEN1,APP","Vision changes,Frequent bowel movements",22,1,"Cerebellar atrophy",44,"No medications",3
+474,0,"MAPT,GBA","Seizures,Spasticity",48,0,"Cortical thinning",46,"Levodopa",2
+475,1,"SCN1A,KRAS","Fatigue,Tremor",14,1,"Leukoencephalopathy",49,"Immunosuppressants",3
+476,2,"LRRK2,EGFR","Hallucinations,Insomnia",18,0,"Normal",38,"No medications",1
+477,0,"TP53,MAPT","Hearing loss,Cognitive decline",34,0,"Cerebellar atrophy",39,"No medications",1
+478,1,"APP","Fatigue,Frequent urination",16,1,"White matter lesions",36,"Levodopa",3
+479,2,"KRAS","Dystonia,Ataxia",45,0,"Cortical thinning",42,"No medications",2
+480,1,"PSEN1","Hallucinations,Balance issues",20,1,"Normal",28,"Acetazolamide",3
+481,0,"MAPT","Migraine,Seizures",30,0,"Leukoencephalopathy",40,"Anticonvulsants",2
+482,2,"EGFR,SCN1A","Hearing loss,Peripheral neuropathy",50,0,"Cerebellar atrophy",45,"No medications",1
+483,1,"BRAF,GBA","Ataxia,Vision changes",19,1,"Cortical thinning",43,"Levodopa",3
+484,2,"LRRK2","Agitation,Insomnia",12,0,"White matter lesions",38,"No medications",1
+485,0,"KRAS,APP","Fatigue,Migraine",33,0,"Leukoencephalopathy",36,"No medications",1
+486,1,"SCN1A,PSEN1","Tremor,Seizures",25,1,"Cerebellar atrophy",40,"Anticonvulsants",3
+487,2,"BRCA1","Intellectual disability,Hallucinations",44,0,"Cortical thinning",50,"Immunosuppressants",2
+488,0,"GBA,EGFR","Cognitive decline,Dystonia",38,0,"Normal",33,"No medications",1
+489,1,"MAPT","Seizures,Fatigue",9,1,"White matter lesions",35,"Levodopa",3
+490,2,"KRAS,PIK3CA","Vision changes,Spasticity",28,0,"Cerebellar atrophy",44,"No medications",1
+491,0,"TP53,APP","Ataxia,Frequent bowel movements",46,0,"Cortical thinning",40,"No medications",2
+492,1,"SCN1A,MAPT","Fatigue,Peripheral neuropathy",17,1,"Leukoencephalopathy",52,"Acetazolamide",3
+493,2,"GBA,KRAS","Spasticity,Migraine",37,0,"Normal",39,"No medications",1
+494,1,"BRCA1","Dystonia,Hallucinations",13,1,"White matter lesions",50,"No medications",3
+495,0,"EGFR,LRRK2","Cognitive decline,Balance issues",43,0,"Cerebellar atrophy",48,"No medications",2
+496,2,"PSEN1,SCN1A","Agitation,Hearing loss",29,0,"Cortical thinning",36,"Immunosuppressants",2
+497,1,"APP","Seizures,Dystonia",18,1,"Normal",38,"Anticonvulsants",3
+498,2,"MAPT,GBA","Tremor,Ataxia",52,0,"White matter lesions",44,"No medications",1
+499,0,"KRAS","Vision changes,Frequent urination",40,0,"Leukoencephalopathy",32,"No medications",1
+500,2,"EGFR","Muscle weakness,Spasticity",35,0,"Cerebellar atrophy",47,"No medications",2

@@ -1,0 +1,6 @@
+{
+  "uri": "bolt://83.229.84.12:7687",
+  "username": "test",
+  "password": "testPW",
+  "database": "graph2.db"
+}

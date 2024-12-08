@@ -1,0 +1,81 @@
+2024-12-08 17:31:58,716 Epoch 1/10: Train Loss 0.6974, Val Loss 0.6912, Val Prec 0.0000, Val Recall 0.0000, Val F1 0.0000
+2024-12-08 17:31:58,720 Epoch 2/10: Train Loss 0.6895, Val Loss 0.6894, Val Prec 0.0000, Val Recall 0.0000, Val F1 0.0000
+2024-12-08 17:31:58,724 Epoch 3/10: Train Loss 0.6816, Val Loss 0.6877, Val Prec 0.0000, Val Recall 0.0000, Val F1 0.0000
+2024-12-08 17:31:58,727 Epoch 4/10: Train Loss 0.6739, Val Loss 0.6860, Val Prec 1.0000, Val Recall 0.5000, Val F1 0.6667
+2024-12-08 17:31:58,731 Epoch 5/10: Train Loss 0.6664, Val Loss 0.6842, Val Prec 0.6667, Val Recall 1.0000, Val F1 0.8000
+2024-12-08 17:31:58,734 Epoch 6/10: Train Loss 0.6589, Val Loss 0.6824, Val Prec 0.6667, Val Recall 1.0000, Val F1 0.8000
+2024-12-08 17:31:58,737 Epoch 7/10: Train Loss 0.6516, Val Loss 0.6805, Val Prec 0.6667, Val Recall 1.0000, Val F1 0.8000
+2024-12-08 17:31:58,741 Epoch 8/10: Train Loss 0.6444, Val Loss 0.6786, Val Prec 0.6667, Val Recall 1.0000, Val F1 0.8000
+2024-12-08 17:31:58,744 Epoch 9/10: Train Loss 0.6373, Val Loss 0.6768, Val Prec 0.5000, Val Recall 1.0000, Val F1 0.6667
+2024-12-08 17:31:58,748 Epoch 10/10: Train Loss 0.6303, Val Loss 0.6749, Val Prec 0.5000, Val Recall 1.0000, Val F1 0.6667
+2024-12-08 17:31:58,750 SimpleMLP training complete and saved.
+2024-12-08 17:31:58,750 Starting Random Forest training with more robust evaluation and tuning.
+2024-12-08 17:31:59,056 Cross-validated F1-macro: 0.8267 ± 0.2370
+2024-12-08 17:31:59,120 Test results - Precision(macro): 0.3750, Recall(macro): 0.5000, F1(macro): 0.4286
+2024-12-08 17:31:59,126 Top 10 Feature Importances:
+        feature  importance
+     HP:0012735    0.188042
+     HP:0000103    0.158350
+     HP:0010295    0.109319
+     HP:0000020    0.093756
+ENSG00000133703    0.053609
+ENSG00000146648    0.043537
+ENSG00000012048    0.036328
+     HP:0002571    0.032637
+     HP:0002315    0.030080
+     HP:0012378    0.026072
+2024-12-08 17:31:59,126 Random Forest training complete.
+2024-12-08 18:13:51,218 Epoch 1/10: Train Loss 0.6831, Val Loss 0.6716, Val Prec 0.7500, Val Recall 0.8182, Val F1 0.7826
+2024-12-08 18:13:51,226 Epoch 2/10: Train Loss 0.6673, Val Loss 0.6557, Val Prec 0.7500, Val Recall 0.8182, Val F1 0.7826
+2024-12-08 18:13:51,233 Epoch 3/10: Train Loss 0.6528, Val Loss 0.6407, Val Prec 0.7692, Val Recall 0.9091, Val F1 0.8333
+2024-12-08 18:13:51,240 Epoch 4/10: Train Loss 0.6373, Val Loss 0.6266, Val Prec 0.7857, Val Recall 1.0000, Val F1 0.8800
+2024-12-08 18:13:51,247 Epoch 5/10: Train Loss 0.6245, Val Loss 0.6127, Val Prec 0.7857, Val Recall 1.0000, Val F1 0.8800
+2024-12-08 18:13:51,253 Epoch 6/10: Train Loss 0.6114, Val Loss 0.5993, Val Prec 0.7857, Val Recall 1.0000, Val F1 0.8800
+2024-12-08 18:13:51,260 Epoch 7/10: Train Loss 0.5993, Val Loss 0.5862, Val Prec 0.7857, Val Recall 1.0000, Val F1 0.8800
+2024-12-08 18:13:51,266 Epoch 8/10: Train Loss 0.5863, Val Loss 0.5735, Val Prec 0.7857, Val Recall 1.0000, Val F1 0.8800
+2024-12-08 18:13:51,273 Epoch 9/10: Train Loss 0.5750, Val Loss 0.5609, Val Prec 0.7857, Val Recall 1.0000, Val F1 0.8800
+2024-12-08 18:13:51,280 Epoch 10/10: Train Loss 0.5631, Val Loss 0.5485, Val Prec 0.7857, Val Recall 1.0000, Val F1 0.8800
+2024-12-08 18:13:51,281 SimpleMLP training complete and saved.
+2024-12-08 18:13:51,282 Starting Random Forest training.
+2024-12-08 18:13:51,599 Cross-validated F1-macro: 0.7300 ± 0.1052
+2024-12-08 18:13:51,668 Test results - Precision(macro): 0.8810, Recall(macro): 0.8810, F1(macro): 0.8810
+2024-12-08 18:13:51,673 Top 10 Feature Importances:
+        feature  importance
+     clinical_2    0.135886
+     clinical_1    0.130394
+     clinical_0    0.122959
+     clinical_3    0.047792
+    clinical_13    0.030380
+     HP:0001251    0.030156
+     HP:0012378    0.025070
+ENSG00000177628    0.023129
+     HP:0001257    0.021097
+     clinical_7    0.019236
+2024-12-08 18:13:51,673 Random Forest training complete.
+2024-12-08 18:52:24,904 Epoch 1/10: Train Loss 0.6745, Val Loss 0.6594, Val Prec 0.6667, Val Recall 0.9091, Val F1 0.7692
+2024-12-08 18:52:24,912 Epoch 2/10: Train Loss 0.6568, Val Loss 0.6447, Val Prec 0.6875, Val Recall 1.0000, Val F1 0.8148
+2024-12-08 18:52:24,919 Epoch 3/10: Train Loss 0.6412, Val Loss 0.6296, Val Prec 0.6875, Val Recall 1.0000, Val F1 0.8148
+2024-12-08 18:52:24,925 Epoch 4/10: Train Loss 0.6265, Val Loss 0.6148, Val Prec 0.7333, Val Recall 1.0000, Val F1 0.8462
+2024-12-08 18:52:24,931 Epoch 5/10: Train Loss 0.6139, Val Loss 0.6010, Val Prec 0.7333, Val Recall 1.0000, Val F1 0.8462
+2024-12-08 18:52:24,937 Epoch 6/10: Train Loss 0.5991, Val Loss 0.5878, Val Prec 0.7333, Val Recall 1.0000, Val F1 0.8462
+2024-12-08 18:52:24,943 Epoch 7/10: Train Loss 0.5867, Val Loss 0.5749, Val Prec 0.7333, Val Recall 1.0000, Val F1 0.8462
+2024-12-08 18:52:24,948 Epoch 8/10: Train Loss 0.5740, Val Loss 0.5622, Val Prec 0.7333, Val Recall 1.0000, Val F1 0.8462
+2024-12-08 18:52:24,954 Epoch 9/10: Train Loss 0.5617, Val Loss 0.5498, Val Prec 0.7333, Val Recall 1.0000, Val F1 0.8462
+2024-12-08 18:52:24,961 Epoch 10/10: Train Loss 0.5502, Val Loss 0.5376, Val Prec 0.7333, Val Recall 1.0000, Val F1 0.8462
+2024-12-08 18:52:24,962 SimpleMLP training complete and saved.
+2024-12-08 18:52:24,962 Starting Random Forest training.
+2024-12-08 18:52:25,244 Cross-validated F1-macro: 0.7300 ± 0.1052
+2024-12-08 18:52:25,308 Test results - Precision(macro): 0.8810, Recall(macro): 0.8810, F1(macro): 0.8810
+2024-12-08 18:52:25,313 Top 10 Feature Importances:
+        feature  importance
+     clinical_2    0.135886
+     clinical_1    0.130394
+     clinical_0    0.122959
+     clinical_3    0.047792
+    clinical_13    0.030380
+     HP:0001251    0.030156
+     HP:0012378    0.025070
+ENSG00000177628    0.023129
+     HP:0001257    0.021097
+     clinical_7    0.019236
+2024-12-08 18:52:25,313 Random Forest training complete.

@@ -1,0 +1,57 @@
+
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Starting training and evaluation notebook...
+Loaded data: Train=64, Val=16, Test=20
+Loaded data: Train=64, Val=16, Test=20
+Loaded data: Train=64, Val=16, Test=20
+Loaded data: Train=64, Val=16, Test=20
+Starting cross-validation...
+Starting cross-validation...
+Starting cross-validation...
+Starting cross-validation...
+Fold 1: F1-macro = 0.7922
+Fold 1: F1-macro = 0.7922
+Fold 1: F1-macro = 0.7922
+Fold 1: F1-macro = 0.7922
+Fold 2: F1-macro = 0.5429
+Fold 2: F1-macro = 0.5429
+Fold 2: F1-macro = 0.5429
+Fold 2: F1-macro = 0.5429
+Fold 3: F1-macro = 0.4667
+Fold 3: F1-macro = 0.4667
+Fold 3: F1-macro = 0.4667
+Fold 3: F1-macro = 0.4667
+Fold 4: F1-macro = 0.7257
+Fold 4: F1-macro = 0.7257
+Fold 4: F1-macro = 0.7257
+Fold 4: F1-macro = 0.7257
+Fold 5: F1-macro = 0.5636
+Fold 5: F1-macro = 0.5636
+Fold 5: F1-macro = 0.5636
+Fold 5: F1-macro = 0.5636
+Cross-validated F1-macro: 0.6182 ± 0.1212
+Cross-validated F1-macro: 0.6182 ± 0.1212
+Cross-validated F1-macro: 0.6182 ± 0.1212
+Cross-validated F1-macro: 0.6182 ± 0.1212
+Retraining final model on combined train+val set.
+Retraining final model on combined train+val set.
+Retraining final model on combined train+val set.
+Retraining final model on combined train+val set.
+Test results - Precision(macro): 0.4333, Recall(macro): 0.4405, F1(macro): 0.4357
+Test results - Precision(macro): 0.4333, Recall(macro): 0.4405, F1(macro): 0.4357
+Test results - Precision(macro): 0.4333, Recall(macro): 0.4405, F1(macro): 0.4357
+Test results - Precision(macro): 0.4333, Recall(macro): 0.4405, F1(macro): 0.4357
+Finished training MLP model.
+Finished training MLP model.
+Finished training MLP model.
+Finished training MLP model.
