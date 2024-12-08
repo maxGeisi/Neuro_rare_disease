@@ -12,9 +12,9 @@ This project demonstrates a simplified machine learning pipeline for predicting 
 Simplified Data & Pipeline:
 This project uses a simplified dataset and approach. In a real scenario, one would probably:
 
-- Fit transformations (e.g., scaling, encoding) on the training data only, then apply them to val/test.
+- Fit transformations (e.g., scaling, encoding) on the training data only
 
-- Consider more complex data sources, additional quality checks, and domain knowledge for interpreting results.
+- The Biological Data is probably more complex and woould require additional quality checks, and a changed model layout.
 
 
 ### Project Structure:
