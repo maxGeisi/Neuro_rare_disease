@@ -14,12 +14,8 @@ This project uses a simplified dataset and approach. In a real scenario, one wou
 
 - Fit transformations (e.g., scaling, encoding) on the training data only
 
-- The Biological Data is probably more complex and woould require additional quality checks, and a changed model layout.
+- The Biological Data is probably more complex and would require additional quality checks, and a changed model layout.
 
-
-### Project Structure:
-
-# Project Name
 
 ## Project Structure
 
@@ -69,7 +65,7 @@ python scripts/data_preprocessing.py
 python scripts/train_model.py
 
 ```
-After training completes, a `neuro_model.pt` file will be saved in `data/model/.
+After training completes, a `neuro_model.pt` file will be saved in `data/model/`.
 
 ## Viewing the Outputs
 
@@ -85,12 +81,12 @@ jupyter notebook notebooks/training_and_eval.ipynb
 
 ```
 ### 3. Qualitative Results
-Open `notebooks/results.ipynb to inspect:
+Open `notebooks/results.ipynb` to inspect:
 
 
 - The classification report and confusion matrix on the test set. 
 
-* Predictions for individual patients, alongside their phenotypes and genes.
+- Predictions for individual patients, alongside their phenotypes and genes.
 
 
 ```bash
